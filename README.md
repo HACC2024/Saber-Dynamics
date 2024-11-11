@@ -9,6 +9,7 @@ This project was made on Android Studio Ladybug | 2024.2.1
 ### 1. Upon loading Android Studio select "Get from VCS"
 ### 2. Select "Git" in the version control menu
 ### 3. Paste the repository link in the URL section
+https://github.com/HACC2024/Saber-Dynamics.git
 ### 4. Press "clone" and wait for project to load
 
 
